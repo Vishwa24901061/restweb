@@ -768,8 +768,7 @@ contact.html
 
 ![Screenshot 2025-04-29 141139 - Copy](https://github.com/user-attachments/assets/6d35ec04-6f61-4030-8109-8d532c1566b0)
 
-![Screenshot 2025-04-29 141139](https://github.com/user-attachments/assets/130cd232-3d48-42f7-bdb1-b7089cf791bf)
-
+![Screenshot 2025-04-29 141303](https://github.com/user-attachments/assets/67617f65-8d7d-4e40-942d-53a288594ffb)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
